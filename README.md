@@ -1,46 +1,47 @@
-# Hi, I'm Vura Lohith Kumar 👋
+# Hi, I'm Vura Lohith Kumar
 
-### Aspiring Data Analyst | SQL • Excel • Python • Power BI
+### SAP MM / S/4HANA Functional Trainee | Sourcing & Procurement | Excel | SQL
 
-I am a 2026 Bachelor of Science in Civil Engineering graduate from IIT Bombay, building a portfolio focused on business analytics, customer analytics, and data visualization. I work with SQL, Advanced Excel, Python (Pandas, NumPy, Matplotlib), Power BI, and DAX to turn raw data into clear business insights.
+I am a 2026 Bachelor of Science in Civil Engineering graduate from IIT Bombay, building practical knowledge in SAP MM / S/4HANA Sourcing & Procurement. My portfolio combines procurement business-process understanding with Excel, SQL, Power BI, and data-validation skills.
 
-## Featured Projects
+## Featured SAP Project
 
-### 🛒 Olist Sales & Operations Analytics
-Real Brazilian e-commerce analysis using Excel and SQL, focused on sales performance, categories, markets, and operational trends.
+### SAP MM / S/4HANA Procure-to-Pay Simulation
 
-**Tools:** Excel • SQL • Data Analysis  
-[View Project](https://github.com/Lohith08-maker/olist-sales-operations-analytics)
+Built an educational synthetic Procure-to-Pay simulation covering:
 
-### 📉 Customer Churn & Retention Analytics
-Analyzed 7,043 telecom customers to identify churn patterns and high-risk customer segments using Python and Pandas.
+**Purchase Requisition → Purchase Order → Goods Receipt → Invoice Verification**
 
-**Tools:** Python • Pandas • Data Cleaning • EDA  
-[View Project](https://github.com/Lohith08-maker/customer-churn-retention-analytics)
+The project includes 240 procurement records, 40 materials, and 12 suppliers, with analysis of procurement spend, lead time, supplier performance, open POs, and three-way-match exceptions.
 
-### 📊 E-commerce Revenue & Customer Performance
-Analyzed 541,909 transaction rows from the UCI Online Retail dataset and built an interactive Power BI dashboard for revenue, orders, customers, products, countries, and monthly trends.
+**SAP concepts:** SAP MM, S/4HANA, Procure-to-Pay, PR, PO, Goods Receipt, Invoice Verification, Three-Way Match, Material Master, Supplier Master  
+**Tools:** Excel, SQL, Data Validation, KPI Analysis
 
-**Tools:** SQL • Power BI • DAX • Business Intelligence  
-[View Project](https://github.com/Lohith08-maker/ecommerce-revenue-bi-analytics)
+[View SAP MM Project](https://github.com/Lohith08-maker/Lohith08-maker/tree/main/sap-mm-procure-to-pay-simulation)
 
-## Technical Skills
+## Additional Projects
 
-**Data Analysis:** SQL, Advanced Excel, Python, Pandas, NumPy  
-**Business Intelligence:** Power BI, DAX, Dashboard Design, KPI Reporting  
-**Analytics:** EDA, Data Cleaning, Data Visualization, Trend Analysis, Customer Segmentation  
-**SQL:** Joins, CTEs, Subqueries, Window Functions
+- [Olist Sales & Operations Analytics](https://github.com/Lohith08-maker/olist-sales-operations-analytics)
+- [E-commerce Revenue BI Analytics](https://github.com/Lohith08-maker/ecommerce-revenue-bi-analytics)
+- [Customer Churn & Retention Analytics](https://github.com/Lohith08-maker/customer-churn-retention-analytics)
+
+## Skills
+
+**SAP MM / S/4HANA:** Sourcing & Procurement, Procure-to-Pay, Purchase Requisition, Purchase Order, Goods Receipt, Invoice Verification, Three-Way Match, Material Master, Supplier Master
+
+**Analytics:** Excel, SQL, Power BI, DAX, Python, Data Validation, KPI Reporting
+
+**Business:** Process Analysis, Documentation, Problem Solving, Cross-functional Coordination
 
 ## Education
 
 **Bachelor of Science in Civil Engineering**  
 Indian Institute of Technology Bombay | 2026
 
-## Connect
+## Career Focus
 
-- 📧 Email: [lohithkumar114@gmail.com](mailto:lohithkumar114@gmail.com)
-- 💻 GitHub: [Lohith08-maker](https://github.com/Lohith08-maker)
+SAP MM Trainee • SAP Functional Consultant Trainee • SAP Associate Consultant • SAP Support • SAP Master Data / ERP Support
 
 ---
 
-*Open to entry-level Data Analyst, BI Analyst, Reporting/MIS Analyst, Operations Analyst, and analytics-focused Business Analyst opportunities.*
+*The SAP project above is an educational simulation using synthetic data and does not claim production SAP implementation experience.*
