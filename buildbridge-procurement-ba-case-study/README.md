@@ -1,5 +1,8 @@
 # BuildBridge — Construction Procurement Business Analysis Case Study
 
+![Portfolio overview — visual summary, not an original project screenshot](./portfolio-preview.svg)
+
+
 **Type:** AI-assisted learning/portfolio demonstrator, built with synthetic data. **Not** client work, not a real deployed product, and not affiliated with Zethic.
 
 ## Open the demo
