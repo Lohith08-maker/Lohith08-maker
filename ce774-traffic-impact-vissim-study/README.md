@@ -1,5 +1,8 @@
 # CE774 | Heavy-Vehicle Impacts on Campus Traffic — IIT Bombay
 
+![Portfolio overview — visual summary, not an original project screenshot](./portfolio-preview.svg)
+
+
 **Academic group project:** Impact of Heavy Vehicles on Pedestrian–Vehicle Interactions within IIT Bombay: A VISSIM-Based Study  
 **Course:** CE774 — Traffic Management and Design, IIT Bombay  
 **Team:** Eight students | **Contributor:** Vura Lohith Kumar  
