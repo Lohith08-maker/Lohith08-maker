@@ -1,0 +1,5 @@
+vehicle_type,count,reported_average_speed_kmph,source_slide
+Two-wheelers,84,40,6
+Cars including autos,72,40,6
+Light commercial vehicles,8,40,6
+Heavy commercial vehicles,16,25,6
