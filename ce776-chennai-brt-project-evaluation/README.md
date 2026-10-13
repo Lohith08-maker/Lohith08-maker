@@ -1,5 +1,8 @@
 # CE776 | Chennai Bus Rapid Transit System — Project Evaluation
 
+![Portfolio summary graphic — not an original course slide](./portfolio-preview.svg)
+
+
 **IIT Bombay Academic Group Project**  
 **Course:** CE776 — Transportation Project Evaluation and Decision Making  
 **Presentation:** CE776 Course Project Stage-2, *Bus Rapid Transit System in Chennai* (15 slides)  
