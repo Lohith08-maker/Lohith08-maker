@@ -1,0 +1,13 @@
+metric,value,unit,source_slide,note
+Proposed system length,120,km,2,Planned network
+Proposed corridor count,7,corridors,2,Planned network
+Headline total project cost,2132.9,INR crore,2,Disagrees with sum of phase figures
+Phase I cost,1006.73,INR crore,2,Includes reported IDC
+Phase II cost,1147.54,INR crore,2,Includes reported IDC
+Per trip time saved assumption,25,minutes,10,Scenario input
+Value of passenger time,120,INR per passenger hour,10,Scenario input
+Average bus occupancy assumption,40,passengers per bus,10,Scenario input
+Daily trips assumption,5450,bus trips per day,10,Scenario input
+Claimed daily time benefit,10.91,INR lakh per day,10,Inconsistent with direct multiplication of inputs
+Slide 9 base BCR,2.14,ratio,9,Different from slide 14
+Slide 14 stated BCR,1.67,ratio,14,Different from slide 9
